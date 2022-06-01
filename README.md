@@ -34,6 +34,7 @@ An include file statement has been added to the program text
 and ANSI-style function prototypes. The format of function definitions in the uxkermit.c, uxconu.c, and uxkerunx.c files has been changed accordingly. 
  
 The rest of the source code of the program remained virtually unchanged. The list of files required for compilation is as follows:
+
 	unix.h		include files from UZI180;
 	sgtty.h
 	uxkermit.h	new include file;
